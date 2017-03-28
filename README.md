@@ -1,4 +1,3 @@
-# cvssv3_Excel
-Just a small demo of CVSS V3.0 Scoring in an excel spreadsheet
+You can read about it here
 
-I could not find an excel demo as such from the internet and i thought i will do it :)
+http://www.h4hacks.com/2017/03/cvssv3-calculator-in-excel.html
